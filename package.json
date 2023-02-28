@@ -1,0 +1,36 @@
+{
+  "name": "hackerrank-interview-prep-kit",
+  "version": "1.0.0",
+  "description": "Repository that will contain hackerrrank interview prep answers",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izzyandrade/hackerrank-interview-prep-kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izzyandrade/hackerrank-interview-prep-kit/issues"
+  },
+  "homepage": "https://github.com/izzyandrade/hackerrank-interview-prep-kit#readme",
+  "dependencies": {
+    "node": "^19.6.1"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.53.0",
+    "@typescript-eslint/parser": "^5.53.0",
+    "@types/node": "^18.14.2",
+    "eslint": "^8.34.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-typescript": "^17.0.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "2.8.4",
+    "typescript": "^4.9.3"
+  }
+}
