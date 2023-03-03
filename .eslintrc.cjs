@@ -23,5 +23,6 @@ module.exports = {
     'no-console': 0,
     'no-plusplus': 0,
     'no-restricted-syntax': 0,
+    '@typescript-eslint/no-loop-func': 0,
   },
 };
