@@ -4,6 +4,8 @@ This is a repository to store my answers to the Hackerrank Interview Preparation
 
 The answers are initially going to be in Typescript, but I intend to add Python solutions in the near future.
 
+All solutions are approved with 100% test success.
+
 ## Installation
 
 Install project dependencies by running:
