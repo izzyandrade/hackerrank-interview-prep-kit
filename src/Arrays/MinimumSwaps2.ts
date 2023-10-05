@@ -29,7 +29,7 @@ function minimumSwaps(arr: number[]) {
   return totalSwaps;
 }
 
-function main() {
+export default function main() {
   const res = minimumSwaps(inputArray);
 
   console.log(res);
