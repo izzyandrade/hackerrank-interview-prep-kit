@@ -24,5 +24,6 @@ module.exports = {
     'no-plusplus': 0,
     'no-restricted-syntax': 0,
     '@typescript-eslint/no-loop-func': 0,
+    'max-classes-per-file': 0,
   },
 };
